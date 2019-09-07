@@ -22,10 +22,10 @@
           ACE Books
         </div>
         <nav class="menu">
-          <a href="menu-link">page 1</a>
-          <a href="menu-link">page 2</a>
-          <a href="menu-link">page 3</a>
-          <a href="menu-link">page 4</a>
+          <a href="#" class="menu-link">Home</a>
+          <a href="#" class="menu-link">Autores</a>
+          <a href="#" class="menu-link">Editoras</a>
+          <a href="#" class="menu-link">Pesquisa</a>
         </nav>
       </header>
     
